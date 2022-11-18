@@ -1,1 +1,1 @@
-Another content for a readme in 0x01-git
+This is the updated version from the Github Web UI
